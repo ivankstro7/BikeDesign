@@ -659,8 +659,7 @@ footer .footer-container-right p a{
     background-image: url(/blog/assets/images/perfil/sagan-2-new.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 786px;
-    grid-column: 7 / 1;
+    grid-column: 8 / 1;
     grid-row: 19 / 12;
     z-index: 1;
 }
